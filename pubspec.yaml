@@ -1,0 +1,27 @@
+name: kabe_saat
+description: "Kabe Saat - Namaz Vakitleri, Kible, Ismail Cosar Ezanlari ve Tekbir Bildirimi"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  audioplayers: ^6.4.0
+  intl: ^0.20.2
+  shared_preferences: ^2.5.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/kabe_saat.jpg
+    - assets/audio/ismail_cosar_ezan.mp3
+    - assets/audio/tekbir_bildirim.mp3

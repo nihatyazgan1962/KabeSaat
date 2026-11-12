@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kabe Saat ve Ezan</string>
+    <string name="widget_name">Kâbe Saat &amp; Vakitler</string>
+    <string name="widget_description">Namaz vakitlerini, sonrakine kalan süreyi ve şehir bilgisini gösterir.</string>
+</resources>
+
